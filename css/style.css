@@ -144,13 +144,13 @@
     top: 50%;
     left: 13px;
     transform: translateY(-50%);
-    background-image: url(images/unchecked.svg);
+    background-image: url(../images/unchecked.svg);
     background-position: center;
     background-size: cover;
 }
 
 .tasks li.checked::before {
-    background-image: url(images/checked.svg);
+    background-image: url(../images/checked.svg);
 }
 
 .tasks li i {
